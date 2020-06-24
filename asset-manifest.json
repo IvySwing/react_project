@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/IvySwing/react_project.git/static/css/main.f4b9b883.chunk.css",
-    "main.js": "/IvySwing/react_project.git/static/js/main.aa86332d.chunk.js",
-    "main.js.map": "/IvySwing/react_project.git/static/js/main.aa86332d.chunk.js.map",
-    "runtime-main.js": "/IvySwing/react_project.git/static/js/runtime-main.8a61e334.js",
-    "runtime-main.js.map": "/IvySwing/react_project.git/static/js/runtime-main.8a61e334.js.map",
-    "static/js/2.56dcb3fa.chunk.js": "/IvySwing/react_project.git/static/js/2.56dcb3fa.chunk.js",
-    "static/js/2.56dcb3fa.chunk.js.map": "/IvySwing/react_project.git/static/js/2.56dcb3fa.chunk.js.map",
-    "index.html": "/IvySwing/react_project.git/index.html",
-    "precache-manifest.67bd53a77a8bbff31dbc61ba28e909d2.js": "/IvySwing/react_project.git/precache-manifest.67bd53a77a8bbff31dbc61ba28e909d2.js",
-    "service-worker.js": "/IvySwing/react_project.git/service-worker.js",
-    "static/css/main.f4b9b883.chunk.css.map": "/IvySwing/react_project.git/static/css/main.f4b9b883.chunk.css.map",
-    "static/js/2.56dcb3fa.chunk.js.LICENSE.txt": "/IvySwing/react_project.git/static/js/2.56dcb3fa.chunk.js.LICENSE.txt"
+    "main.css": "/IvySwing/react_project/static/css/main.f4b9b883.chunk.css",
+    "main.js": "/IvySwing/react_project/static/js/main.aa86332d.chunk.js",
+    "main.js.map": "/IvySwing/react_project/static/js/main.aa86332d.chunk.js.map",
+    "runtime-main.js": "/IvySwing/react_project/static/js/runtime-main.6dce5945.js",
+    "runtime-main.js.map": "/IvySwing/react_project/static/js/runtime-main.6dce5945.js.map",
+    "static/js/2.56dcb3fa.chunk.js": "/IvySwing/react_project/static/js/2.56dcb3fa.chunk.js",
+    "static/js/2.56dcb3fa.chunk.js.map": "/IvySwing/react_project/static/js/2.56dcb3fa.chunk.js.map",
+    "index.html": "/IvySwing/react_project/index.html",
+    "precache-manifest.d9bb6ef837bceed3ca22118ea1ae4e1b.js": "/IvySwing/react_project/precache-manifest.d9bb6ef837bceed3ca22118ea1ae4e1b.js",
+    "service-worker.js": "/IvySwing/react_project/service-worker.js",
+    "static/css/main.f4b9b883.chunk.css.map": "/IvySwing/react_project/static/css/main.f4b9b883.chunk.css.map",
+    "static/js/2.56dcb3fa.chunk.js.LICENSE.txt": "/IvySwing/react_project/static/js/2.56dcb3fa.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.8a61e334.js",
+    "static/js/runtime-main.6dce5945.js",
     "static/js/2.56dcb3fa.chunk.js",
     "static/css/main.f4b9b883.chunk.css",
     "static/js/main.aa86332d.chunk.js"
